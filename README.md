@@ -1,7 +1,7 @@
 ## ⚙️ Installation Guide ⚙️ ##
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/https:/https://github.com/KerstinPaguio/FINAL.git
+git clone https://github.com/KerstinPaguio/FINAL.git
 cd final
 
 2️⃣ Create and Activate Virtual Environment
